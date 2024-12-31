@@ -38,7 +38,7 @@ _Jun 2024 - Sep 2024_
 
 ### **Machine Learning Intern @ IIT Tirupati**  
 _Jun 2022 - Aug 2022_  
-- Implemented a PyTorch-based neural network with CUDA acceleration to map ligand vectors to binding sites to predict molecular interactions in biological systems. Additionally, utilized the novel Site2Vec algorithm to generate reference frame invariant vector embeddings for protein-ligand binding sites.  
+- Implemented a PyTorch-based neural network with **CUDA** acceleration to map ligand vectors to binding sites to predict molecular interactions in biological systems. Additionally, utilized the novel Site2Vec algorithm to generate reference frame invariant vector embeddings for protein-ligand binding sites.  
 - Achieved a significant improvement in the accuracy of binding site predictions, increasing the model’s prediction accuracy by 20%.  
 
 ---
@@ -53,10 +53,10 @@ _Jun 2022 - Aug 2022_
 
 ### **Medium Clone**  
 [Explore Project](https://medium-clone-green-one.vercel.app/signup)  
-- Designed and implemented a scalable blogging platform clone using React.js and TypeScript for the frontend, Cloudflare Workers for the backend, and PostgreSQL with Prisma ORM for the database.
-- Leveraged modern technologies like Zod for validation and data integrity.
+- Designed and implemented a scalable blogging platform clone using **React.js** and **TypeScript** for the frontend, Cloudflare Workers for the backend, and **PostgreSQL** with **Prisma ORM** for the database.
+- Leveraged modern technologies like **Zod** for validation and data integrity.
 
 
 ### **Movie Search Engine**  
-- Developed a movie search engine utilizing data extracted from Wikipedia, featuring a user-friendly interface created with Flask.  
-- The system integrates Lucene and Faiss indexing to compare search results, allowing users to input queries and access relevant results from PyLucene and Faiss (BERT).
+- Developed a movie search engine utilizing data extracted from Wikipedia, featuring a user-friendly interface created with **Flask**.  
+- The system integrates **Lucene** and **Faiss** indexing to compare search results, allowing users to input queries and access relevant results from **PyLucene** and **Faiss (BERT)**.
